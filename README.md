@@ -1,5 +1,8 @@
 # Mushroom_Analysis
 
+Analysis Summary:
+*   You can find a summary of my analysis and data wrangling process in my Medium Article: https://medium.com/@celinawalkowicz/mushroom-analysis-3d0d55b62a2a
+
 Data Sets:
 
 *   Data Sets were acquired from the Mushroom Data Set 2020 published by Phillpps Universitat Marburg in Germany
